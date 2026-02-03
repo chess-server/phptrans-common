@@ -1,5 +1,5 @@
 {
-    "name": "php-translation/common",
+    "name": "chess-server/phptrans-common",
     "description": "Common translation stuff",
     "license": "MIT",
     "authors": [
@@ -10,10 +10,10 @@
     ],
     "require": {
         "php": ">=7.2",
-        "symfony/translation": " ^3.4 || ^4.3 || ^5.0 || ^6.0 || ^7.0"
+        "symfony/translation": " ^3.4 || ^4.3 || ^5.0 || ^6.0 || ^7.0 || ^8.0 "
     },
     "require-dev": {
-        "symfony/framework-bundle": " ^3.4 || ^4.3 || ^5.0 || ^6.0 || ^7.0",
+        "symfony/framework-bundle": " ^3.4 || ^4.3 || ^5.0 || ^6.0 || ^7.0 || ^8.0 ",
         "phpunit/phpunit": ">=8.5.23",
         "phpspec/prophecy-phpunit": "^2.1"        
     },
